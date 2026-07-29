@@ -7,7 +7,7 @@ const Hero = () => {
     <div className='hero container'>
         <div className="hero-text">
             <h1>We ensure better education for a better world</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam evoluptatum neque reprehenderit mollitia. Praesentium ducimus, nisi cupiditate facilis quaerat soluta.</p>
+            <p>Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and practical experience needed to succeed in today's competitive world.</p>
             <button className="btn">Explore <img src={dark_arrow} alt="" /></button>
         </div>
       
