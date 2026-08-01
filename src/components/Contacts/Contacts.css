@@ -52,3 +52,7 @@
     margin-top: 5px;
     resize: none;
 }
+.contacts span{
+    display: block;
+    margin-top: 10px 0;
+}
